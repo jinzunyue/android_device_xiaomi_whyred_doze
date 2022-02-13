@@ -1,0 +1,18 @@
+<resources>
+    <string name="device_settings_app_name">doze</string>
+    <string name="ambient_display_title">doze-ambient</string>
+    <string name="switch_bar_on">switch_bar_on</string>
+    <string name="switch_bar_off">switch_bar_off</string>
+    <string name="doze_settings_help_text">doze_settings_help_text</string>
+<string name="doze_settings_help_title">doze_settings_help_title</string>
+<string name="dialog_ok">dialog_ok</string>
+
+<string name="tilt_sensor_title">tilt_sensor_title</string>
+<string name="pick_up_gesture_title">pick_up_gesture_title</string>
+<string name="pick_up_gesture_summary">pick_up_gesture_summary</string>
+<string name="proximity_sensor_title">proximity_sensor_title</string>
+<string name="hand_wave_gesture_title">hand_wave_gesture_title</string>
+<string name="hand_wave_gesture_summary">hand_wave_gesture_summary</string>
+<string name="pocket_gesture_title">pocket_gesture_title</string>
+<string name="pocket_gesture_summary">pocket_gesture_summary</string>
+</resources>
